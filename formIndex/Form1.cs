@@ -11,7 +11,6 @@ using ComponentFactory.Krypton.Toolkit;
 
 namespace formIndex {
     public partial class Form1 : KryptonForm {
-        int num;
         public Form1() {
             InitializeComponent();
         }
